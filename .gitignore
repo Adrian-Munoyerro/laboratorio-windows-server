@@ -1,0 +1,18 @@
+# Discos de máquinas virtuales
+*.vdi
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.ovf
+
+# Archivos temporales y registros
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Archivos de configuración sensibles
+.env
+.env.*
+!.env.example
