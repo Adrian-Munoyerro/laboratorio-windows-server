@@ -61,9 +61,9 @@ Estas pruebas no verifican todavía la conectividad con recursos compartidos SMB
 
 ### Conectividad con la puerta de enlace y resolución DNS
 
-![Resultados de ping a la puerta de enlace y consulta DNS](../capturas/ping-puerta-enlace-y-dns.png)
+![Resultados de ping a la puerta de enlace y consulta DNS](../capturas/ping-puerta-enlace-y-dns.PNG)
 
 ### Comprobación de conectividad y puertos
 
-![Resultado de las pruebas de conectividad y puerto HTTPS](../capturas/ping-conexion-puertos.png)
+![Resultado de las pruebas de conectividad y puerto HTTPS](../capturas/ping-conexion-puertos.PNG)
 
