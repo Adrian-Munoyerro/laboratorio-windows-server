@@ -20,14 +20,18 @@ para practicar administración de sistemas y soporte IT.
 - Creación del bosque y dominio `ad.lab.test`.
 - Promoción de `SRV-AD01` a controlador de dominio.
 - Configuración y validación de DNS integrado con Active Directory.
-- Verificación de servicios y registros DNS mediante PowerShell.
+- Creación de unidades organizativas (OU).
+- Administración de usuarios y grupos de seguridad.
+- Asociación de usuarios a grupos mediante Active Directory.
+- Validación de pertenencias mediante PowerShell.
 
 ## Próximas prácticas
 
-- Crear unidades organizativas (OU).
-- Administrar usuarios y grupos de seguridad.
 - Incorporar un equipo cliente al dominio.
 - Configurar directivas de grupo (GPO).
-- Crear carpetas compartidas y configurar permisos SMB y NTFS.
+- Crear carpetas compartidas.
+- Configurar permisos SMB y NTFS.
 - Simular y resolver incidencias de soporte IT.
+
+
 
